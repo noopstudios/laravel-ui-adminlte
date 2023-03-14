@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/laravel-ui-adminlte",
+    "name": "noopstudios/laravel-ui-adminlte",
     "description": "Laravel frontend preset for AdminLTE Theme",
     "keywords": [
         "laravel",
@@ -16,8 +16,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^9.0",
-        "infyomlabs/laravel-generator-helpers": "^4.0",
+        "illuminate/support": "^9.0|^10.0",
+        "infyomlabs/laravel-generator-helpers": "^4.0.1",
         "laravel/ui": "^3.0"
     },
     "autoload": {
